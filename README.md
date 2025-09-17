@@ -78,7 +78,8 @@ See [`automatic_plant_watering.ino`](automatic_plant_watering.ino) for the full 
 ---
 
 ## 🎥 Demo
-*(Optional: add a photo or link to a video of your system in action)*
+
+![1726851270138](https://github.com/user-attachments/assets/b6da04b0-4c2b-4e5f-af97-e2a43bb332c5)
 
 ---
 
