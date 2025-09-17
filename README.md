@@ -37,7 +37,8 @@ The goal is to design and develop a smart irrigation system that can:
 - **Relay Module:** VCC → 5V, GND → GND, IN → D2, COM & NO → water pump circuit  
 - **LCD (I²C):** GND → GND, VCC → 5V, SDA → A4, SCL → A5  
 
-*(Upload an image of your circuit diagram here)*
+<img width="723" height="684" alt="image" src="https://github.com/user-attachments/assets/de5c070d-9b8a-4812-8013-e49369d4ae03" />
+
 
 ---
 
